@@ -13,7 +13,7 @@ const config = {
   favicon: "../favicon.ico",
   title: "Sabello Store",
   description:
-    "Give your dApps, the wings of decentralised infrastructure with Sabello!",
+    "Give your dApps, the wings of decentralised infrastructure with Upendra!",
   links: [
     {
       key: "official",
