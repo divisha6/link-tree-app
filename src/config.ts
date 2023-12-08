@@ -11,9 +11,9 @@ import Email from "./assets/icons/email.svg";
 const config = {
   logoUrl: AppLogo,
   favicon: "../favicon.ico",
-  title: "Spheron Link Tree",
+  title: "Sabello Store",
   description:
-    "Give your dApps, the wings of decentralised infrastructure with Spheron!",
+    "Give your dApps, the wings of decentralised infrastructure with Sabello!",
   links: [
     {
       key: "official",
